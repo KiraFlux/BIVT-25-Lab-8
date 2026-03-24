@@ -1,6 +1,6 @@
 using System;
 using System.Linq;
-
+   
 namespace Lab8.Blue.Task5
 {
     public class Sportsman(string name, string surname)
